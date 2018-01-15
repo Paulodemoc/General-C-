@@ -1,0 +1,9 @@
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\bin\Debug\SanAndreasPostOffice.exe.config
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\bin\Debug\SanAndreasPostOffice.exe
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\bin\Debug\SanAndreasPostOffice.pdb
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\obj\Debug\SanAndreasPostOffice.csprojResolveAssemblyReference.cache
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\obj\Debug\SanAndreasPostOffice.csproj.CoreCompileInputs.cache
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\obj\Debug\SanAndreasPostOffice.exe
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\obj\Debug\SanAndreasPostOffice.pdb
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\obj\Debug\SanAndreasPostOffice.Properties.Resources.resources
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice\obj\Debug\SanAndreasPostOffice.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\SanAndreasPostOffice.Tests.dll
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\SanAndreasPostOffice.Tests.pdb
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\SanAndreasPostOffice.exe
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\SanAndreasPostOffice.pdb
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\SanAndreasPostOffice.exe.config
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\obj\Debug\SanAndreasPostOffice.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\obj\Debug\SanAndreasPostOffice.Tests.csproj.CoreCompileInputs.cache
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\obj\Debug\SanAndreasPostOffice.Tests.dll
+E:\Projects\Take\SanAndreasPostOffice\SanAndreasPostOffice.Tests\obj\Debug\SanAndreasPostOffice.Tests.pdb

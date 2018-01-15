@@ -1,0 +1,14 @@
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\StateMachine.Tests.dll
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\StateMachine.Tests.pdb
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\StateMachine.exe
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\StateMachine.pdb
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\StateMachine.exe.config
+E:\Projects\Take\StateMachine\StateMachine.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+E:\Projects\Take\StateMachine\StateMachine.Tests\obj\Debug\StateMachine.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\Take\StateMachine\StateMachine.Tests\obj\Debug\StateMachine.Tests.csproj.CoreCompileInputs.cache
+E:\Projects\Take\StateMachine\StateMachine.Tests\obj\Debug\StateMachine.Tests.dll
+E:\Projects\Take\StateMachine\StateMachine.Tests\obj\Debug\StateMachine.Tests.pdb

@@ -1,0 +1,7 @@
+E:\Projects\Take\StateMachine\StateMachine\bin\Debug\StateMachine.exe.config
+E:\Projects\Take\StateMachine\StateMachine\bin\Debug\StateMachine.exe
+E:\Projects\Take\StateMachine\StateMachine\bin\Debug\StateMachine.pdb
+E:\Projects\Take\StateMachine\StateMachine\obj\Debug\StateMachine.csprojResolveAssemblyReference.cache
+E:\Projects\Take\StateMachine\StateMachine\obj\Debug\StateMachine.csproj.CoreCompileInputs.cache
+E:\Projects\Take\StateMachine\StateMachine\obj\Debug\StateMachine.exe
+E:\Projects\Take\StateMachine\StateMachine\obj\Debug\StateMachine.pdb
